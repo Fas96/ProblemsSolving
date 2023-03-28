@@ -5,151 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef3a6a67-3195-4eae-881b-0d2040641e73" name="Changes" comment="&quot;prob&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/java/OS/SequenceGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OS/SequenceGeneratorUsingReentrantLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OS/SequenceGeneratorUsingSynchronizedBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OS/SequenceGeneratorUsingSynchronizedMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OS/commonOSRelatedInterviewQuestions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/activityDiagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/class/accessModifiers.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/class/aggregation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/class/association.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/class/classDog.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/class/composition.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/class/dependency.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/class/exampleClassDiagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/class/inheritance.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/class/inheritanceFromAbstractIsItalicName.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/class/inout.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/class/realization.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/class/relationBetweenClasses.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/communicationDiagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/component/aggregation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/component/association.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/component/componentPorts.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/component/componentType.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/component/componentVersionExample.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/component/composition.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/component/constraint.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/component/databaseModelling.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/component/dependency.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/component/executeModuleReleaseExample.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/component/howAComponentIsDrawn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/component/inheritance.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/component/javaSrcCodeExample.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/component/requireProvided.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/component/subsystemClassifier.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/componentDiagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/compositeDiagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/deployment/deploymentDiagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/deployment/deploymentDigramEx.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/deployment/deploymentStructure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/deployment/distributed/example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/deployment/distributed/q1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/deployment/distributed/q2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/deployment/distributed/step1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/deployment/distributed/step2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/deployment/distributed/step3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/deployment/distributed/step4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/deployment/distributed/step5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/deployment/node.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/deployment/nodeConnectionsS.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/deployment/nodesConnection.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/deployment/server/step1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/deployment/server/step2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/deployment/server/step3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/deployment/server/step4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/deployment/stepsTakenToCreateDeploymentDiagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/deployment/stepsTakenToCreateDeploymentDiagram1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/deployment/stepsTakenToCreateDeploymentDiagram2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/deployment/stepsTakenToCreateDeploymentDiagram3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/deploymentDiagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/interactionDiagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/interactionOverview.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/object/classDIagramExampleWithRelation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/object/departmentConsistingOfManyOtherDepartment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/object/objectDiagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/object/objectDiagramforTest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/objectDiagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/packageDiag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/packageDiagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/profileDiagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/sequenceDiagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/stateMachine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/timeDiagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/timeDiagram1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/uml.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/umlClassDiagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/umlTypes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UML/useCaseDiagrams.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epi/arrays/NonUniformRandomNumberGeneration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epi/arrays/SudokuValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/twoPointers/Q11ContainerWithMostWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/twoPointers/Q153Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/deasy/Q2011FinalValueOfVariableAfterPerformingOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/deasy/Q2027MinimumMovesToConvertString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/deasy/Q530MinimumAbsoluteDifferenceInBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/deasy/Q605CanPlaceFlowers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q106ConstructBinaryTreeFromInorderAndPostorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q109ConvertSortedListToBinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q129SumRootToLeafNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q1319NumberOfOperationsToMakeNetworkConnected.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q142LinkedListCycleII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q1438LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q1472DesignBrowserHistory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q1855MaximumDistanceBetweenAPairOfValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q2187MinimumTimeToCompleteTrips.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q2294PartitionArraySuchThatMaximumDifferenceIsK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q2348NumberOfZeroFilledSubarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q2492MinimumScoreOfAPathBetweenTwoCities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q2564SubstringXORQueries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q2568MinimumImpossibleOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q264UglyNumberII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q28FindTheIndexOfTheFirstOccurrenceInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q382LinkedListRandomNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q427ConstructQuadTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q443StringCompression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q652FindDuplicateSubtrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q807MaxIncreaseToKeepCitySkyline.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q912SortAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q958CheckCompletenessOfABinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/hard/Q1345JumpGameIV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/hard/Q23MergeKSortedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/hard/Q2444CountSubarraysWithFixedBounds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/hard/Q72EditDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/dfACC/tarr/Q11ContainerWithMostWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/dfACC/tarr/Q1TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/dfACC/tarr/Q4MedianOfTwoSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/bw100/Q6323DistributeMoneyToMaximumChildren.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/bw100/Q6324MaximizeGreatnessOfAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/bw100/Q6325MinimumTimeToRepairCars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/bw100/Q6351FindScoreOfAnArrayAfterMarkingAllElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/bw99/Q6311CountTotalNumberOfColoredCells.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/bw99/Q6312SplitWithMinimumSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/bw99/Q6313CountWaysToGroupOverlappingRanges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/bw99/Q6314CountNumberOfPossibleRootNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w334/Q2577MinimumTimeToVisitACellInAGrid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w334/Q6367FindTheMaximumNumberOfMarkedIndices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w334/Q6368FindTheDivisibilityArrayOfAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w334/Q6369LeftAndRightSumDifferences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w335/Q6307PassThePillow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w335/Q6308KthLargestSumInABinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w335/Q6309SplitTheArrayToMakeCoprimeProducts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w335/Q6310NumberOfWaysToEarnPoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w336/Q6315CountTheNumberOfVowelStringsInRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w336/Q6316RearrangeArrayToMaximizePrefixScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w336/Q6317CountTheNumberOfBeautifulSubarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w336/Q6318MinimumTimeToCompleteAllTasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w337/Q6319NumberOfEvenAndOddBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w337/Q6321SmallestMissingNonnegativeIntegerAfterOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w337/Q6322CheckKnightTourConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w337/Q6352TheNumberOfBeautifulSubsets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Q나이출력.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Q다음에올숫자.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Q문자반복출력하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Q옹알이1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q1466ReorderRoutesToMakeAllPathsLeadToTheCityZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q2316CountUnreachablePairsOfNodesInAnUndirectedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q64MinimumPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q983MinimumCostForTickets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w338/Q6354KItemsWithTheMaximumSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w338/Q6357MinimumOperationsToMakeAllArrayElementsEqual.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Dpersonal/EricProgramming/LeetcodeLearningPhase1/twoPointers/a11ContainerWithMostWater.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode/Bmedium/a378KthSmallestElementinaSortedMatrix/a378KthSmallestElementinaSortedMatrixTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/leetcode/Bmedium/a378KthSmallestElementinaSortedMatrix/a378KthSmallestElementinaSortedMatrixTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -242,7 +105,7 @@
       <recent name="kakao.a2022.test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Q1319NumberOfOperationsToMakeNetworkConnected.testmakeConnected">
+  <component name="RunManager" selected="JUnit.Q6354KItemsWithTheMaximumSum.testkItemsWithMaximumSum">
     <configuration name="Q1319NumberOfOperationsToMakeNetworkConnected.testmakeConnected" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
@@ -259,7 +122,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2348NumberOfZeroFilledSubarrays.testZeroFilledSubarray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Q1466ReorderRoutesToMakeAllPathsLeadToTheCityZero.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
@@ -268,56 +131,56 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcode.Y2023.daily.dmedium" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.daily.dmedium.Q2348NumberOfZeroFilledSubarrays" />
-      <option name="METHOD_NAME" value="testZeroFilledSubarray" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q605CanPlaceFlowers.testcanPlaceFlowers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.Y2023.daily.deasy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcode.Y2023.daily.deasy" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.daily.deasy.Q605CanPlaceFlowers" />
-      <option name="METHOD_NAME" value="testcanPlaceFlowers" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q6321SmallestMissingNonnegativeIntegerAfterOperations.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.Y2023.weekly.w337.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcode.Y2023.weekly.w337" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.weekly.w337.Q6321SmallestMissingNonnegativeIntegerAfterOperations" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.daily.dmedium.Q1466ReorderRoutesToMakeAllPathsLeadToTheCityZero" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q6322CheckKnightTourConfiguration.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Q2316CountUnreachablePairsOfNodesInAnUndirectedGraph.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.Y2023.weekly.w337.*" />
+          <option name="PATTERN" value="leetcode.Y2023.daily.dmedium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="leetcode.Y2023.weekly.w337" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.weekly.w337.Q6322CheckKnightTourConfiguration" />
+      <option name="PACKAGE_NAME" value="leetcode.Y2023.daily.dmedium" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.daily.dmedium.Q2316CountUnreachablePairsOfNodesInAnUndirectedGraph" />
       <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q6354KItemsWithTheMaximumSum.testkItemsWithMaximumSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.Y2023.weekly.w338.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcode.Y2023.weekly.w338" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.weekly.w338.Q6354KItemsWithTheMaximumSum" />
+      <option name="METHOD_NAME" value="testkItemsWithMaximumSum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q6357MinimumOperationsToMakeAllArrayElementsEqual.testMinOperation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.Y2023.weekly.w338.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcode.Y2023.weekly.w338" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.weekly.w338.Q6357MinimumOperationsToMakeAllArrayElementsEqual" />
+      <option name="METHOD_NAME" value="testMinOperation" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -359,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Q6354KItemsWithTheMaximumSum.testkItemsWithMaximumSum" />
+        <item itemvalue="JUnit.Q6357MinimumOperationsToMakeAllArrayElementsEqual.testMinOperation" />
+        <item itemvalue="JUnit.Q2316CountUnreachablePairsOfNodesInAnUndirectedGraph.test" />
+        <item itemvalue="JUnit.Q1466ReorderRoutesToMakeAllPathsLeadToTheCityZero.test" />
         <item itemvalue="JUnit.Q1319NumberOfOperationsToMakeNetworkConnected.testmakeConnected" />
-        <item itemvalue="JUnit.Q2348NumberOfZeroFilledSubarrays.testZeroFilledSubarray" />
-        <item itemvalue="JUnit.Q605CanPlaceFlowers.testcanPlaceFlowers" />
-        <item itemvalue="JUnit.Q6321SmallestMissingNonnegativeIntegerAfterOperations.test" />
-        <item itemvalue="JUnit.Q6322CheckKnightTourConfiguration.test" />
       </list>
     </recent_temporary>
   </component>
@@ -625,7 +488,14 @@
       <workItem from="1679270677237" duration="1533000" />
       <workItem from="1679356807113" duration="1511000" />
       <workItem from="1679443361442" duration="2477000" />
-      <workItem from="1679529375413" duration="2795000" />
+      <workItem from="1679529375413" duration="3476000" />
+      <workItem from="1679616136324" duration="3230000" />
+      <workItem from="1679705726478" duration="2880000" />
+      <workItem from="1679797645377" duration="513000" />
+      <workItem from="1679798162110" duration="4846000" />
+      <workItem from="1679875893536" duration="774000" />
+      <workItem from="1679893470278" duration="414000" />
+      <workItem from="1680010906722" duration="312000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;algo&quot;">
       <created>1660652466560</created>
@@ -802,7 +672,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677328059518</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="&quot;prob&quot;">
+      <created>1679532214916</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1679532214916</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

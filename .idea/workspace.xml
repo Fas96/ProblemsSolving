@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef3a6a67-3195-4eae-881b-0d2040641e73" name="Changes" comment="&quot;prob&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q1466ReorderRoutesToMakeAllPathsLeadToTheCityZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q2316CountUnreachablePairsOfNodesInAnUndirectedGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q64MinimumPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q983MinimumCostForTickets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w338/Q6354KItemsWithTheMaximumSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w338/Q6357MinimumOperationsToMakeAllArrayElementsEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/hard/Q1402ReducingDishes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode/Bmedium/a378KthSmallestElementinaSortedMatrix/a378KthSmallestElementinaSortedMatrixTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/leetcode/Bmedium/a378KthSmallestElementinaSortedMatrix/a378KthSmallestElementinaSortedMatrixTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode/Bmedium/a378KthSmallestElementinaSortedMatrix/a378KthSmallestElementinaSortedMatrixTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,18 +100,18 @@
       <recent name="kakao.a2022.test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Q6354KItemsWithTheMaximumSum.testkItemsWithMaximumSum">
-    <configuration name="Q1319NumberOfOperationsToMakeNetworkConnected.testmakeConnected" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Q1402ReducingDishes.test">
+    <configuration name="Q1402ReducingDishes.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.Y2023.daily.dmedium.*" />
+          <option name="PATTERN" value="leetcode.Y2023.daily.hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="leetcode.Y2023.daily.dmedium" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.daily.dmedium.Q1319NumberOfOperationsToMakeNetworkConnected" />
-      <option name="METHOD_NAME" value="testmakeConnected" />
+      <option name="PACKAGE_NAME" value="leetcode.Y2023.daily.hard" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.daily.hard.Q1402ReducingDishes" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -222,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Q1402ReducingDishes.test" />
         <item itemvalue="JUnit.Q6354KItemsWithTheMaximumSum.testkItemsWithMaximumSum" />
         <item itemvalue="JUnit.Q6357MinimumOperationsToMakeAllArrayElementsEqual.testMinOperation" />
         <item itemvalue="JUnit.Q2316CountUnreachablePairsOfNodesInAnUndirectedGraph.test" />
         <item itemvalue="JUnit.Q1466ReorderRoutesToMakeAllPathsLeadToTheCityZero.test" />
-        <item itemvalue="JUnit.Q1319NumberOfOperationsToMakeNetworkConnected.testmakeConnected" />
       </list>
     </recent_temporary>
   </component>
@@ -495,7 +490,8 @@
       <workItem from="1679798162110" duration="4846000" />
       <workItem from="1679875893536" duration="774000" />
       <workItem from="1679893470278" duration="414000" />
-      <workItem from="1680010906722" duration="312000" />
+      <workItem from="1680010906722" duration="992000" />
+      <workItem from="1680048352402" duration="1759000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;algo&quot;">
       <created>1660652466560</created>
@@ -679,7 +675,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679532214916</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="&quot;prob&quot;">
+      <created>1680011236011</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1680011236011</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

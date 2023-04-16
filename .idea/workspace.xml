@@ -5,9 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef3a6a67-3195-4eae-881b-0d2040641e73" name="Changes" comment="&quot;prob&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/hard/Q1402ReducingDishes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atcoder/QASaturday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atcoder/QASwapOddAndEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atcoder/QCMakeTakahashiHappy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/bw102/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/bw102/Q6333FindTheWidthOfColumnsOfAGrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/bw102/Q6334FindTheScoreOfAllPrefixesOfAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/bw102/Q6335CousinsInBinaryTreeII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w341/Q6350FindTheMaximumDivisibilityScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w341/Q6375MinimumAdditionsToMakeValidString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w341/Q6376RowWithMaximumOnes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Eweekly/w341/Q6378MinimizeTheTotalPriceOfTheTrips.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/deasy/Q58LengthOfLastWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q1020NumberOfEnclaves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q1254NumberOfClosedIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q133CloneGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q2300SuccessfulPairsOfSpellsAndPotions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q2390RemovingStarsFromAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q2405OptimalPartitionOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q2439MinimizeMaximumOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q526BeautifulArrangement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q71SimplifyPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q881BoatsToSavePeople.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/hard/Q87ScrambleString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w339/Q6362FindTheLongestBalancedSubstringOfABinaryString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/weekly/w339/Q6363ConvertAnArrayIntoA2DArrayWithConditions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode/Bmedium/a378KthSmallestElementinaSortedMatrix/a378KthSmallestElementinaSortedMatrixTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +48,7 @@
         <option value="TypeScript File" />
         <option value="Interface" />
         <option value="JavaScript File" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -67,7 +91,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;ssh.settings&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
     &quot;ts.external.directory.path&quot;: &quot;/Users/fasbhim/Documents/2022/fas/algorithms/java-algorithms/src/main/java/linux/node_modules/typescript/lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -100,24 +124,21 @@
       <recent name="kakao.a2022.test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Q1402ReducingDishes.test">
-    <configuration name="Q1402ReducingDishes.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Q2390RemovingStarsFromAString.removeTest">
+    <configuration name="QASwapOddAndEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atcoder.QASwapOddAndEven" />
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.Y2023.daily.hard.*" />
+          <option name="PATTERN" value="atcoder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="leetcode.Y2023.daily.hard" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.daily.hard.Q1402ReducingDishes" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1466ReorderRoutesToMakeAllPathsLeadToTheCityZero.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Q2390RemovingStarsFromAString.removeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
@@ -126,14 +147,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcode.Y2023.daily.dmedium" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.daily.dmedium.Q1466ReorderRoutesToMakeAllPathsLeadToTheCityZero" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.daily.dmedium.Q2390RemovingStarsFromAString" />
+      <option name="METHOD_NAME" value="removeTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2316CountUnreachablePairsOfNodesInAnUndirectedGraph.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Q526BeautifulArrangement.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
@@ -142,40 +163,40 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcode.Y2023.daily.dmedium" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.daily.dmedium.Q2316CountUnreachablePairsOfNodesInAnUndirectedGraph" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.daily.dmedium.Q526BeautifulArrangement" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q6354KItemsWithTheMaximumSum.testkItemsWithMaximumSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="QASwapOddAndEven.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.Y2023.weekly.w338.*" />
+          <option name="PATTERN" value="atcoder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="leetcode.Y2023.weekly.w338" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.weekly.w338.Q6354KItemsWithTheMaximumSum" />
-      <option name="METHOD_NAME" value="testkItemsWithMaximumSum" />
+      <option name="PACKAGE_NAME" value="atcoder" />
+      <option name="MAIN_CLASS_NAME" value="atcoder.QASwapOddAndEven" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q6357MinimumOperationsToMakeAllArrayElementsEqual.testMinOperation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="QCMakeTakahashiHappy.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.Y2023.weekly.w338.*" />
+          <option name="PATTERN" value="atcoder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="leetcode.Y2023.weekly.w338" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.Y2023.weekly.w338.Q6357MinimumOperationsToMakeAllArrayElementsEqual" />
-      <option name="METHOD_NAME" value="testMinOperation" />
+      <option name="PACKAGE_NAME" value="atcoder" />
+      <option name="MAIN_CLASS_NAME" value="atcoder.QCMakeTakahashiHappy" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -217,11 +238,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Q1402ReducingDishes.test" />
-        <item itemvalue="JUnit.Q6354KItemsWithTheMaximumSum.testkItemsWithMaximumSum" />
-        <item itemvalue="JUnit.Q6357MinimumOperationsToMakeAllArrayElementsEqual.testMinOperation" />
-        <item itemvalue="JUnit.Q2316CountUnreachablePairsOfNodesInAnUndirectedGraph.test" />
-        <item itemvalue="JUnit.Q1466ReorderRoutesToMakeAllPathsLeadToTheCityZero.test" />
+        <item itemvalue="JUnit.Q2390RemovingStarsFromAString.removeTest" />
+        <item itemvalue="Application.QASwapOddAndEven" />
+        <item itemvalue="JUnit.QASwapOddAndEven.test" />
+        <item itemvalue="JUnit.QCMakeTakahashiHappy.test" />
+        <item itemvalue="JUnit.Q526BeautifulArrangement.test" />
       </list>
     </recent_temporary>
   </component>
@@ -491,7 +512,26 @@
       <workItem from="1679875893536" duration="774000" />
       <workItem from="1679893470278" duration="414000" />
       <workItem from="1680010906722" duration="992000" />
-      <workItem from="1680048352402" duration="1759000" />
+      <workItem from="1680048352402" duration="1796000" />
+      <workItem from="1680135499869" duration="1455000" />
+      <workItem from="1680256052585" duration="1762000" />
+      <workItem from="1680402493393" duration="7799000" />
+      <workItem from="1680480311171" duration="949000" />
+      <workItem from="1680570554263" duration="299000" />
+      <workItem from="1680605740633" duration="9520000" />
+      <workItem from="1680620781483" duration="595000" />
+      <workItem from="1680652687347" duration="2115000" />
+      <workItem from="1680670640282" duration="266000" />
+      <workItem from="1680694673329" duration="59000" />
+      <workItem from="1680740292747" duration="791000" />
+      <workItem from="1680826388627" duration="1047000" />
+      <workItem from="1680955345459" duration="1288000" />
+      <workItem from="1681054488435" duration="1083000" />
+      <workItem from="1681184940245" duration="1338000" />
+      <workItem from="1681258659642" duration="1111000" />
+      <workItem from="1681569353171" duration="5710000" />
+      <workItem from="1681590279676" duration="3000" />
+      <workItem from="1681614623427" duration="3796000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;algo&quot;">
       <created>1660652466560</created>
@@ -682,7 +722,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680011236011</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="&quot;prob&quot;">
+      <created>1680050123120</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1680050123120</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -5,75 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef3a6a67-3195-4eae-881b-0d2040641e73" name="Changes" comment="&quot;prob&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Bmedium/Q1140StoneGameII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a2PatternSlidingWindow/1.1 Introduction.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a2PatternSlidingWindow/2. Maximum Sum Subarray of Size K (easy).md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a2PatternSlidingWindow/3. Smallest Subarray with a given sum (easy).md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a2PatternSlidingWindow/Q1a15_WordsConcatenation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a2PatternSlidingWindow/Q1a1643MaximumAverageSubarrayI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a2PatternSlidingWindow/Q1a2209MinimumSizeSubarraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a2PatternSlidingWindow/Q1a253MaximumSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a2PatternSlidingWindow/Q1a2_LongestSubstringKDistinct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a2PatternSlidingWindow/Q1a2_MaxFruitCountOf2Types.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a2PatternSlidingWindow/Q1a3_152MaximumProductSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a2PatternSlidingWindow/Q1a4_904FruitIntoBaskets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a2PatternSlidingWindow/Q1a5_2401LongestNiceSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a2PatternSlidingWindow/Q1a6_3LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a2PatternSlidingWindow/Q1a7_424LongestRepeatingCharacterReplacement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a2PatternSlidingWindow/Q1a8_LongestSubarrayWithOnesAfterReplacement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a2PatternSlidingWindow/Q1aC_PermutationInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a2PatternSlidingWindow/Q1aC_SmallestWindowContainingSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a2PatternSlidingWindow/QCharacterReplacement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a2PatternSlidingWindow/QNoRepeatingSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a2PatternSlidingWindow/QStringAnagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a3TwoPointers/Q1a2_1TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a3TwoPointers/Q1a3_26RemoveDuplicatesFromSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a3TwoPointers/Q1a4_977SquaresOfASortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a3TwoPointers/Q581ShortestUnsortedContinuousSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a3TwoPointers/Q844BackspaceStringCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a3TwoPointers/QDutchNationalFlagProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a3TwoPointers/QQuadrupleSumToTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a3TwoPointers/QSubarraysWithProductLessThanATarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a3TwoPointers/QTripletSumCloseToTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a3TwoPointers/QTripletsWithSmallerSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a3TwoPointers/Qa15_searchTriplets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a3TwoPointers/a1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a4FastAndSlowPointer/Q142LinkedListCycleII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a4FastAndSlowPointer/Q143ReorderList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a4FastAndSlowPointer/Q202HappyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a4FastAndSlowPointer/Q234PalindromeLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a4FastAndSlowPointer/Q457CircularArrayLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a4FastAndSlowPointer/Q876MiddleOfTheLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/book/educative/a5PatternMergeIntervals/Q2MergeIntervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/deasy/Q1046LastStoneWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/deasy/Q1431KidsWithTheGreatestNumberOfCandies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/deasy/Q1491AverageSalaryExcludingTheMinimumAndMaximumSalary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/deasy/Q1572MatrixDiagonalSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/deasy/Q1768MergeStringsAlternately.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/deasy/Q1822SignOfTheProductOfAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/deasy/Q2215FindTheDifferenceOfTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/deasy/Q258AddDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q1372LongestZigZagPathInABinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q1376TimeNeededToInformAllEmployees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q1456MaximumNumberOfVowelsInASubstringOfGivenLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q1498NumberOfSubsequencesThatSatisfyTheGivenSumCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q1639NumberOfWaysToFormATargetStringGivenADictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q2336SmallestNumberInInfiniteSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q2467MostProfitablePathInATree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q300LongestIncreasingSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q516LongestPalindromicSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q54SpiralMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q649Dota2Senate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q662MaximumWidthOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/hard/Q1312MinimumInsertionStepsToMakeAStringPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/hard/Q1416RestoreTheArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/hard/Q1579RemoveMaxNumberOfEdgesToKeepGraphFullyTraversable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/hard/Q1697CheckingExistenceOfEdgeLengthLimitedPaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/hard/Q839SimilarStringGroups.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/hard/Q879ProfitableSchemes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/hard/Q964FindTheLongestValidObstacleCourseAtEachPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Aeasy/Q1232CheckIfItIsAStraightLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/focus/fifth/Q1235MaximumProfitInJobScheduling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/focus/fifth/QMaximumCPULoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/focus/fifth/QMinimumMeetingRooms.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q983MinimumCostForTickets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Y2023/daily/dmedium/Q983MinimumCostForTickets.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +73,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;ts.external.directory.path&quot;: &quot;/Users/fasbhim/Documents/2022/fas/algorithms/java-algorithms/src/main/java/linux/node_modules/typescript/lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -304,7 +240,7 @@
         <env name="TMPDIR" value="/var/folders/bc/s8rw2kss6xg_56bd02jfx91m0000gn/T/" />
         <env name="COMMAND_MODE" value="unix2003" />
         <env name="LaunchInstanceID" value="CC09A894-5341-4B1A-A595-7667C8082C67" />
-        <env name="SSH_AUTH_SOCK" value="/private/tmp/com.apple.launchd.RBmXsGOnQw/Listeners" />
+        <env name="SSH_AUTH_SOCK" value="/private/tmp/com.apple.launchd.GiQKbSrWon/Listeners" />
         <env name="XPC_FLAGS" value="0x0" />
         <env name="__CF_USER_TEXT_ENCODING" value="0x1F5:0x0:0x0" />
         <env name="LOGNAME" value="fasbhim" />
@@ -645,6 +581,10 @@
       <workItem from="1684843691569" duration="1803000" />
       <workItem from="1685010271769" duration="597000" />
       <workItem from="1685110548186" duration="2206000" />
+      <workItem from="1685175390752" duration="9045000" />
+      <workItem from="1685840273771" duration="35000" />
+      <workItem from="1685840871101" duration="1172000" />
+      <workItem from="1685928218555" duration="6750000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;algo&quot;">
       <created>1660652466560</created>
